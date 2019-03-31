@@ -1,6 +1,8 @@
-For demo purposes, only simple token based authentication is used.
+Ecommark 
+---
+Basic product listing page using RESTful API for demo purposes
 
-#### What to look for?
+#### What you need to see here?
 
 1. Controllers (handles the API request)
     + app/Http/Controllers/Api/
@@ -28,14 +30,23 @@ For demo purposes, only simple token based authentication is used.
     
 7. Automated Tests (contains basic API testing)
     + tests/api
+    ```
+    Run tests via : vendor/bin/codecept run api
+    ```
     
     
 #### Installation & Setup
-Go to the project directory and execute
+* Make sure you have docker installed
+* Go to the project directory and execute
 ```
 ./setup.sh
 ```
 
+* Visit http://localhost:9400
 
+
+![Product Listing Image](https://github.com/mvestil/ecommark/master/resources/images/product-list.png "Product Listing")
+
+![Product Detail Image](https://github.com/mvestil/ecommark/master/resources/images/product-detail.png "Product Listing")
 
 
