@@ -31,6 +31,10 @@ For demo purposes, only simple token based authentication is used.
     
     
 #### Installation & Setup
+Go to the project directory and execute
+```
+./setup.sh
+```
 
 
 
