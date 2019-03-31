@@ -45,7 +45,13 @@ Basic product listing page using RESTful API for demo purposes
 * Visit http://localhost:9400
 
 
+
+#### Screenshots
+Product Listing
+
 ![Product Listing Image](https://github.com/mvestil/ecommark/blob/master/resources/images/product-list.png "Product Listing")
+
+Product Detail
 
 ![Product Detail Image](https://github.com/mvestil/ecommark/blob/master/resources/images/product-detail.png "Product Listing")
 
