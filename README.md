@@ -1,6 +1,6 @@
 Ecommark 
 ---
-Basic product listing page using RESTful API for demo purposes using Laravel 5.8
+Basic product listing page using RESTful API for demo purposes with PHP using Laravel 5.8 framework
 
 #### What you need to see here?
 
