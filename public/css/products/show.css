@@ -1,0 +1,15 @@
+.product-view {
+    padding:50px;
+}
+
+.product-view .card {
+    width: 100%;
+}
+
+.product-img-top {
+    min-height:366px;
+}
+
+.card-title, .price, .sku, .stocks-available, .category-item {
+    color: palevioletred;
+}
