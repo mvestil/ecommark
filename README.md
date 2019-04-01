@@ -19,16 +19,19 @@ Basic product listing page using RESTful API for demo purposes with PHP using La
     
 5. Resources (transforms responses into JSON API compliant format)
     + app/Http/Resources
+
+6. Routes
+    + routes/
         
-6. Database Structure (contains database table structures)
+7. Database Structure (contains database table structures)
     + database/migrations
     
-7. User Interface
+8. User Interface
     + resources/views/products
     + resources/views/layouts
     + public/js
     
-7. Automated Tests (contains basic API testing)
+9. Automated Tests (contains basic API testing)
     + tests/api
     ```
     Run tests via : vendor/bin/codecept run api
